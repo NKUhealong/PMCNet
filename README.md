@@ -1,5 +1,5 @@
 # PMCNet
-This repository contains the Keras implementation using Tensorflow as backend of our paper "Progressive Multi-scale Consistent Network for
+This repository contains the Keras implementation using Tensorflow as backend of our IEEE TMI paper "Progressive Multi-scale Consistent Network for
 Multi-class Fundus Lesion Segmentation"
 
 ## Requirements
